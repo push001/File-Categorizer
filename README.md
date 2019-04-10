@@ -1,5 +1,5 @@
 # File-Categorizer
-A simple program written in **python** which uses the concept of **regular expression** to automate the manual task of selecting and moving the files from one type of category to another type of category.
+A simple **Non-Intelligent** program written in **Python** which uses the concept of **Regular Expression** to automate the manual task of selecting and moving the files from one type of category to another type of category.
 # Description
 As an engineering student , in each semester I need to download the question papers of each subject from the FTP server of my college for exam preparation.
 Question Papers of all subject are stored in **year-wise category**, but during preparation I tackle subjects individually. So manually every time I have to go to each folder in year-wise category, choose 1 paper and then move it to **subject-wise category**. So I have created this program which can do such mundane task for me.
